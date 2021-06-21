@@ -1,0 +1,26 @@
+[
+    {
+        "text": {
+            "heading": "Michael liked you!",
+            "caption": "About 20 minutes ago"
+        },
+        "icon": "fa fa-heart",
+        "color": "grayed-darken"
+    },
+    {
+        "text": {
+            "heading": "Jack liked you!",
+            "caption": "About 40 minutes ago"
+        },
+        "icon": "fa fa-heart",
+        "color": "danger"
+    },
+    {
+        "text": {
+            "heading": "Martin liked you!",
+            "caption": "About 58 minutes ago"
+        },
+        "icon": "fa fa-stop",
+        "color": "primary"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "basic": [
+            {
+                "name":"Home",
+                "icon":"fa fa-home"
+            },
+            {
+                "name":"Message",
+                "icon":"fa fa-stop"
+            }
+        ],
+        "share": [
+            {
+                "name":"Ranking",
+                "icon":"fa fa-bar-chart-o"
+            },
+            {   "name":"Challenge",
+                "icon":"fa fa-exclamation-triangle"
+            },
+            {
+                "name":"Party",
+                "icon":"fa fa-volume-up"
+            },
+            {
+                "name":"Connect",
+                "icon":"fa fa-paperclip"
+            },
+            {
+                "name":"Parade",
+                "icon":"fa fa-male"
+            },
+            {
+                "name":"Group",
+                "icon":"fa fa-users"
+            }
+        ]
+    }
+]
