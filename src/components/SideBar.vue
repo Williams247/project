@@ -35,7 +35,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "../styles./app.scss";
+@import "../styles/app.scss";
 #logo {
   width: 130px;
   margin-top: 38px;

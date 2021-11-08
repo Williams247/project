@@ -18,7 +18,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import "../styles./app.scss";
+@import "../styles/app.scss";
 .button {
   background: $primary;
   color: $light;
